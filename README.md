@@ -1,6 +1,6 @@
 # Korean Taekkyeon Martial Traditions Registry
 
-This repository preserves, in an immutable and decentralized format, the martial traditions of **Taekkyeon** — Korea’s fluid, rhythmic, and dance-like martial art recognized by UNESCO as Intangible Cultural Heritage.
+This repository preserves, in an immutable and decentralized format, the martial traditions of **Taekkyeon**. Korea’s fluid, rhythmic, and dance-like martial art recognized by UNESCO as Intangible Cultural Heritage.
 
 Taekkyeon is characterized by **pumbalki** (continuous stepping), **circular kicks**, **sweeps**, and **hwalgaejil** (wide arm gestures). Unlike linear striking arts, Taekkyeon emphasizes rhythm, flow, and non-linear movement.
 
